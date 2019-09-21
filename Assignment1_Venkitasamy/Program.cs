@@ -332,7 +332,6 @@ namespace Assignmen1_Venkitasamy
                             }
                             else
                             {
-
                                 temp_arr = new List<int>();
                             }
                         }
